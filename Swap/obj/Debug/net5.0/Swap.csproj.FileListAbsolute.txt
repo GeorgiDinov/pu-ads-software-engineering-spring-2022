@@ -1,0 +1,16 @@
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\bin\Debug\net5.0\Swap.exe
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\bin\Debug\net5.0\Swap.deps.json
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\bin\Debug\net5.0\Swap.runtimeconfig.json
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\bin\Debug\net5.0\Swap.runtimeconfig.dev.json
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\bin\Debug\net5.0\Swap.dll
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\bin\Debug\net5.0\Swap.pdb
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\obj\Debug\net5.0\Swap.csproj.AssemblyReference.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\obj\Debug\net5.0\Swap.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\obj\Debug\net5.0\Swap.AssemblyInfoInputs.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\obj\Debug\net5.0\Swap.AssemblyInfo.cs
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\obj\Debug\net5.0\Swap.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\obj\Debug\net5.0\Swap.dll
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\obj\Debug\net5.0\refint\Swap.dll
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\obj\Debug\net5.0\Swap.pdb
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\obj\Debug\net5.0\Swap.genruntimeconfig.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\Swap\obj\Debug\net5.0\ref\Swap.dll

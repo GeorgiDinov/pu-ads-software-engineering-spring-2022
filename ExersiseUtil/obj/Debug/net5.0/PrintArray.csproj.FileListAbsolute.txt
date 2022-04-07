@@ -1,0 +1,16 @@
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\bin\Debug\net5.0\PrintArray.exe
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\bin\Debug\net5.0\PrintArray.deps.json
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\bin\Debug\net5.0\PrintArray.runtimeconfig.json
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\bin\Debug\net5.0\PrintArray.runtimeconfig.dev.json
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\bin\Debug\net5.0\PrintArray.dll
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\bin\Debug\net5.0\PrintArray.pdb
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\obj\Debug\net5.0\PrintArray.csproj.AssemblyReference.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\obj\Debug\net5.0\PrintArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\obj\Debug\net5.0\PrintArray.AssemblyInfoInputs.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\obj\Debug\net5.0\PrintArray.AssemblyInfo.cs
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\obj\Debug\net5.0\PrintArray.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\obj\Debug\net5.0\PrintArray.dll
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\obj\Debug\net5.0\refint\PrintArray.dll
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\obj\Debug\net5.0\PrintArray.pdb
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\obj\Debug\net5.0\PrintArray.genruntimeconfig.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\PrintArray\obj\Debug\net5.0\ref\PrintArray.dll

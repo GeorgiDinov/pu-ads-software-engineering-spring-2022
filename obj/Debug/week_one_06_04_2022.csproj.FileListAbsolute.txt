@@ -1,0 +1,3 @@
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\obj\Debug\week_one_06_04_2022.csproj.AssemblyReference.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\obj\Debug\week_one_06_04_2022.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\pu-ads-software-engineering-spring-2022\obj\Debug\week_one_06_04_2022.csproj.CoreCompileInputs.cache
