@@ -4,14 +4,14 @@
     "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\MinAndMax\\MinAndMax.csproj": {}
   },
   "projects": {
-    "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExersiseUtil\\ExersiseUtil.csproj": {
+    "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExerciseUtil\\ExerciseUtil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExersiseUtil\\ExersiseUtil.csproj",
-        "projectName": "ExersiseUtil",
-        "projectPath": "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExersiseUtil\\ExersiseUtil.csproj",
+        "projectUniqueName": "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExerciseUtil\\ExerciseUtil.csproj",
+        "projectName": "ExerciseUtil",
+        "projectPath": "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExerciseUtil\\ExerciseUtil.csproj",
         "packagesPath": "C:\\Users\\facec\\.nuget\\packages\\",
-        "outputPath": "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExersiseUtil\\obj\\",
+        "outputPath": "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExerciseUtil\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\facec\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExersiseUtil\\ExersiseUtil.csproj": {
-                "projectPath": "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExersiseUtil\\ExersiseUtil.csproj"
+              "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExerciseUtil\\ExerciseUtil.csproj": {
+                "projectPath": "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExerciseUtil\\ExerciseUtil.csproj"
               }
             }
           }

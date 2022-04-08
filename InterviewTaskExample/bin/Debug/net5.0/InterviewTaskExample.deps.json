@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v5.0": {
       "InterviewTaskExample/1.0.0": {
         "dependencies": {
-          "ExersiseUtil": "1.0.0"
+          "ExerciseUtil": "1.0.0"
         },
         "runtime": {
           "InterviewTaskExample.dll": {}
         }
       },
-      "ExersiseUtil/1.0.0": {
+      "ExerciseUtil/1.0.0": {
         "runtime": {
-          "ExersiseUtil.dll": {}
+          "ExerciseUtil.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ExersiseUtil/1.0.0": {
+    "ExerciseUtil/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

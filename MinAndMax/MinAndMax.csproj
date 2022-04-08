@@ -2,11 +2,12 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
+    <!-- change to the installed verison on your machine if needed-->
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ExersiseUtil\ExersiseUtil.csproj" />
+    <ProjectReference Include="..\ExerciseUtil\ExerciseUtil.csproj" />
   </ItemGroup>
 
 </Project>

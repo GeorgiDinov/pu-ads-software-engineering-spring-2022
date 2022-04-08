@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "ExersiseUtil/1.0.0": {
+      "ExerciseUtil/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/ExersiseUtil.dll": {}
+          "bin/placeholder/ExerciseUtil.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ExersiseUtil.dll": {}
+          "bin/placeholder/ExerciseUtil.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ExersiseUtil/1.0.0": {
+    "ExerciseUtil/1.0.0": {
       "type": "project",
-      "path": "../ExersiseUtil/ExersiseUtil.csproj",
-      "msbuildProject": "../ExersiseUtil/ExersiseUtil.csproj"
+      "path": "../ExerciseUtil/ExerciseUtil.csproj",
+      "msbuildProject": "../ExerciseUtil/ExerciseUtil.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "ExersiseUtil >= 1.0.0"
+      "ExerciseUtil >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExersiseUtil\\ExersiseUtil.csproj": {
-              "projectPath": "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExersiseUtil\\ExersiseUtil.csproj"
+            "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExerciseUtil\\ExerciseUtil.csproj": {
+              "projectPath": "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\pu-ads-software-engineering-spring-2022\\ExerciseUtil\\ExerciseUtil.csproj"
             }
           }
         }

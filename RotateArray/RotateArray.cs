@@ -1,5 +1,5 @@
 ﻿using System;
-using ExersiseUtil;
+using ExerciseUtil;
 
 
 namespace RotateArray

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <!-- change to the installed verison on your machine if needed-->
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
